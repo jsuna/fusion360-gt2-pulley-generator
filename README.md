@@ -1,6 +1,6 @@
-# fushion360-gt2-pulley-generator
+# GT2 Pulley Generator for Fusion 360
 
-GT2 pulley generator add-in for Autodesk Fusion. It adds a **GT2 Pulley** button to **Solid → Create** (next to Spur Gear) that builds a 2 mm pitch GT2 timing pulley for any tooth count, with optional flanges, a hub and threaded set screw holes.
+An Autodesk Fusion 360 add-in that generates 2 mm pitch GT2 timing pulleys for any tooth count, with optional flanges, a hub and threaded set screw holes. It adds a **GT2 Pulley** button to **Solid → Create**, next to Spur Gear.
 
 ## Install
 
