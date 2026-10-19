@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"id": "34b26f8c-9579-4606-8fdf-7a8358366835",
+	"author": "jsuna",
+	"description": {
+		"": "Generates timing (GT2, HTD, MXL, XL, L, T-series), V-belt, multi-V and round belt / rope pulleys with optional flanges, hub and threaded set screws."
+	},
+	"version": "2.0.0",
+	"runOnStartup": true,
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
